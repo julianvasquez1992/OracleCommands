@@ -1,0 +1,498 @@
+Country,Resort Name,No of Days,Travel Method,Price,Date of issue,Month,Holiday ID
+Australia,Great Barrier Reef,32,Plane,750,12/16/16,December,I990AUS
+Australia,Perth,28,Plane,985,6/21/16,June,AUS112J
+Chile,Santiago,21,Plane,1259,1/20/17,January,CH266H
+England,London,3,Train,69,10/10/16,October,I456UK
+England,Bognor,1,Coach,12,1/19/17,January,BG726H
+France,Lyon,14,Plane,399,2/17/17,February,A7995FR
+France,Paris - Euro Disney,5,Train,269,2/27/16,February,TH789FR
+France,Paris - Euro Disney,3,Train,125,1/27/17,January,TH788FR
+France,Nice,7,Plane,289,3/17/16,March,I7897FR
+France,Toulouse,7,Train,256,1/6/17,January,SG7637L
+France,Nimes,7,Plane,287,7/16/16,July,FR5625J
+Germany,Black Forest,4,Coach,69,6/25/16,June,A111G
+Germany,Berlin,7,Coach,289,7/13/16,July,BR6736G
+Peru,Lima,21,Plane,975,2/1/16,February,PG7836G
+Saudi Arabia,Riyadh,14,Plane,995,10/2/16,October,KSA8987
+Spain,Barcelona,4,Train,219,3/14/16,March,I6675SP
+Spain,Nerja,6,Plane,198,3/10/16,March,TH990ESP
+Spain,Malaga,16,Plane,234,11/29/16,November,A776ESP
+Spain,Seville,14,Plane,288,8/21/16,August,NM9876Y
+Spain,Seville,10,Plane,199,3/22/16,March,TH8956SP
+Spain,Barcelona,8,Plane,177,9/1/16,September,AJ9836L
+Spain,Barcelona,7,Coach,199,6/10/16,June,GG9836P
+Spain,Malaga,14,Plane,301,6/19/16,June,PL8726P
+Spain,Barcelona,4,Train,219,9/11/16,September,I6675SP
+Spain,Seville,14,Train,299,7/13/16,July,SV767HH
+Spain,Madrid,8,Plane,277,2/3/17,February,WE6735L
+Spain,Granada,10,Plane,345,12/21/16,December,GR7878G
+Trinidad,Port of Spain,14,Plane,885,9/11/16,September,TT67624G
+China,Sanya Yalong,5,Train,320,9/28/16,September,Y8J4E0
+China,Lijiang,43,Train,213,2/18/17,February,L5X2Q8
+Russia,Radisson,41,Plane,702,2/19/17,February,K6A2P2
+Germany,Frankfurt,13,Plane,1079,11/24/16,November,P4O6S6
+Australia,Perth,34,Train,193,11/29/16,November,M1N1C4
+Turkey,Rixos,28,Plane,1028,11/22/16,November,R9Z6P3
+Spain,Barcelona,33,Coach,140,12/16/16,December,C3G2V5
+Mexico,Cozumel,8,Train,173,10/26/16,October,G8S4Q2
+Russia,The artic,20,Plane,985,4/19/16,April,G7A8S5
+Australia,Great Barrier Reef,37,Plane,1225,11/14/16,November,P8O4G9
+Spain,Seville,21,Plane,570,2/27/17,February,C4O8N2
+France,Nimes,5,Train,261,3/12/16,March,P8W5D9
+Spain,Granada,8,Plane,511,3/15/16,March,K5E2J6
+France,Nimes,8,Train,169,3/5/16,March,Y1K8H7
+USA,Mohonk,9,Coach,141,10/16/16,October,C7Q0R3
+Turkey,Orka,41,Coach,112,5/7/16,May,W0D9E4
+Australia,Likuliku Lagoon Resort,41,Coach,134,7/18/16,July,C0Z7D1
+Mexico,Hotel Riu,5,Coach,148,5/23/16,May,E7O1J6
+France,Lyon,11,Plane,467,6/30/16,June,A9N5Y6
+Italy,Cenobio,15,Plane,1277,8/1/16,August,Z8E8X8
+USA,Omni Amelia,26,Train,307,8/31/16,August,X9U2M6
+Spain,Seville,13,Train,159,11/18/16,November,N5M7Z6
+Italy,La callete,32,Coach,109,9/4/16,September,R6I4D2
+Chile,Coyhaique,42,Plane,1018,9/16/16,September,P7W1N2
+England,London,29,Plane,1007,2/25/17,February,N0C7O8
+Italy,La callete,39,Train,321,2/29/16,February,S3W3S0
+Turkey,Salmakis,17,Train,357,7/13/16,July,J8T4Y9
+France,Nimes,20,Train,149,4/20/16,April,N3M2V9
+Germany,Black Forest,14,Train,246,1/13/17,January,J7F4V0
+Spain,Barcelona,20,Train,189,3/22/16,March,Z0E5H8
+Italy,Rome,23,Train,138,11/25/16,November,Q5B2V0
+USA,Sirata,16,Coach,129,5/16/16,May,F8F6P6
+Russia,Vesna,17,Train,241,2/29/16,February,T7X7Z7
+Australia,The Brando,38,Plane,1179,2/12/17,February,T2I1W0
+Spain,Nerja,14,Plane,982,11/28/16,November,W9S3U0
+Germany,Frankfurt,33,Train,259,6/30/16,June,A3V0H1
+France,Toulouse,42,Train,284,2/19/16,February,D7S9H6
+Germany,Frankfurt,34,Train,124,11/1/16,November,N0H2H7
+Chile,La Parva,19,Plane,391,5/27/16,May,O4W9Y1
+Australia,Perth,32,Coach,145,4/21/16,April,T1T3D6
+USA,The meritage,13,Train,134,6/29/16,June,O0B6M3
+Spain,Madrid,19,Train,384,9/7/16,September,X1I7W1
+Russia,Dacha del sol,6,Train,362,8/3/16,August,R0P9W5
+Germany,Frankfurt,35,Plane,1096,1/14/17,January,T7N1A0
+Germany,Black Forest,7,Coach,146,5/3/16,May,E2F5T4
+Italy,Cruccuris,22,Plane,313,5/12/16,May,Y7D5P7
+Germany,Black Forest,13,Train,159,3/3/16,March,X9R4R0
+France,Nice,28,Plane,512,11/25/16,November,M4H8Q1
+Germany,Cologne,12,Train,362,11/8/16,November,D6C9J5
+Russia,Dacha del sol,19,Train,259,7/21/16,July,I0Y5I1
+USA,Omni Amelia,33,Plane,561,2/10/16,February,D7E0F6
+Mexico,Punta Serena,8,Plane,392,4/19/16,April,H7C4N9
+Germany,Frankfurt,6,Coach,127,1/8/17,January,L6X3T6
+England,Bognor,27,Plane,1131,5/12/16,May,R5C4X5
+Italy,La callete,29,Coach,110,12/22/16,December,E6Z3K0
+Italy,Cruccuris,17,Plane,219,1/3/17,January,M7K0K2
+Italy,Rome,37,Train,350,7/19/16,July,N9X8M1
+Italy,Cenobio,23,Coach,108,12/28/16,December,I3V6C6
+Turkey,Orka,10,Plane,297,10/30/16,October,R1G4M5
+Spain,Granada,13,Train,387,3/21/16,March,P7Q5B3
+Russia,Radisson,12,Plane,659,12/28/16,December,E9F8W7
+England,Slaley,31,Coach,148,7/15/16,July,S7W5Q0
+England,Bognor,22,Train,175,12/20/16,December,K1H3J0
+France,Lyon,45,Train,204,2/28/16,February,X0U7Z8
+Germany,Munich,26,Train,341,11/13/16,November,C3J2L1
+Mexico,Punta Serena,29,Coach,134,6/16/16,June,E1O6J2
+France,Paris - Euro Disney,35,Coach,108,12/11/16,December,S3Z1D5
+Germany,Frankfurt,10,Plane,1041,3/13/16,March,T3L0C7
+England,Bognor,10,Plane,1002,7/22/16,July,M8C2V5
+Spain,Nerja,28,Coach,150,9/7/16,September,P1V5T4
+Chile,Coyhaique,36,Train,277,5/10/16,May,U9S2D4
+France,Lyon,41,Plane,283,1/7/17,January,I4S2V6
+England,London,5,Coach,122,4/9/16,April,J6H3N2
+Chile,Portillo,8,Train,152,6/19/16,June,N2D8O0
+Germany,Cologne,5,Coach,111,11/2/16,November,S1Z1A6
+USA,Sirata,31,Coach,146,3/3/16,March,R5P5N5
+Australia,Great Barrier Reef,17,Coach,136,12/12/16,December,V0F1S6
+Russia,Radisson,43,Train,261,7/21/16,July,E1Z5G4
+Mexico,Punta Serena,32,Plane,327,6/29/16,June,C2T5B5
+USA,Paradise Stream,20,Train,104,10/15/16,October,O1E0H2
+USA,Paradise Stream,22,Train,319,1/2/17,January,Z5W1U7
+USA,The meritage,45,Coach,117,9/1/16,September,I4L6L4
+Australia,Perth,43,Plane,1029,5/5/16,May,X4Q7D9
+Russia,The artic,28,Plane,816,7/5/16,July,N1U8L0
+China,Dameisha,28,Plane,487,2/17/17,February,J8Q4S4
+USA,Sirata,38,Plane,867,10/25/16,October,C1O5S3
+USA,Sirata,24,Coach,142,10/18/16,October,M4A6B5
+Italy,Cruccuris,26,Train,232,2/1/16,February,U8F7J0
+Mexico,Valentin,15,Train,319,7/26/16,July,M8X9I1
+USA,Mohonk,6,Coach,113,2/14/16,February,N0C0Q3
+USA,Omni Amelia,21,Train,400,8/29/16,August,E7Z8F8
+China,Oceanview,27,Train,168,10/9/16,October,R5W6X9
+England,Champneys,18,Train,119,4/24/16,April,M4K2P6
+Spain,Barcelona,6,Coach,126,2/25/16,February,K9N0H9
+Mexico,Iberostar,40,Train,196,2/25/16,February,R4D3F8
+Russia,Zeleniy,10,Plane,1080,1/31/17,January,A5K6F6
+Germany,Black Forest,27,Train,156,7/15/16,July,B1Y8U6
+Australia,The Brando,25,Plane,1196,3/30/16,March,T2C3K4
+France,Toulouse,10,Train,221,2/2/17,February,S1M2L6
+USA,The meritage,30,Train,117,10/22/16,October,A4M2B9
+Turkey,Orka,44,Coach,118,3/16/16,March,J9H5V0
+England,Crowne Plaza,12,Train,328,10/23/16,October,N5Q8Q3
+France,Paris - Euro Disney,28,Coach,112,8/17/16,August,X5G6D0
+France,Paris - Euro Disney,5,Plane,858,3/3/16,March,Z5V4L4
+Chile,Coyhaique,8,Train,189,6/14/16,June,B3Z7V5
+Italy,La callete,17,Plane,504,11/8/16,November,I6Y9S8
+England,London,12,Coach,110,5/7/16,May,N2F5I7
+China,Lijiang,35,Train,233,9/3/16,September,Q4Q0M1
+Russia,Zeleniy,12,Coach,131,2/1/16,February,V6J3B5
+Germany,Cologne,13,Train,327,2/15/16,February,J6P1X8
+England,London,15,Coach,142,2/26/17,February,P8V7D6
+USA,The meritage,42,Train,390,3/27/16,March,J2S9S7
+England,Slaley,10,Coach,128,4/25/16,April,D8E1L3
+Australia,Southern Ocean Lodge,20,Train,169,2/27/17,February,U4E7I6
+Spain,Granada,25,Train,399,6/22/16,June,P0B5P1
+England,Slaley,23,Plane,594,8/19/16,August,H7B6F6
+USA,The meritage,14,Plane,1170,4/6/16,April,A6R3L3
+Russia,Dacha del sol,11,Train,347,11/9/16,November,W1K8W0
+Chile,Farellones,40,Coach,113,3/6/16,March,G7C5X7
+Turkey,Ilayda,12,Train,229,10/19/16,October,I4Z2Z8
+France,Nice,30,Plane,445,7/2/16,July,Z9S2R0
+Italy,Rome,19,Plane,1057,2/25/17,February,E6S7L8
+Australia,Great Barrier Reef,8,Plane,348,12/12/16,December,G9K7U3
+Italy,La callete,22,Train,137,1/19/17,January,E9Q0D5
+USA,Sirata,19,Plane,731,2/11/16,February,W4L1U2
+China,Oceanview,36,Plane,330,6/24/16,June,S4M8M5
+Italy,Cruccuris,29,Train,287,10/5/16,October,W5S4T5
+England,Slaley,42,Plane,966,3/25/16,March,G1Q1D9
+Italy,Excelsior,15,Coach,124,4/8/16,April,N2H9Z0
+China,Renaissance Sanya,37,Train,251,12/25/16,December,N9U8S7
+USA,Sirata,28,Plane,794,5/2/16,May,S3X2C0
+England,Crowne Plaza,40,Train,249,9/25/16,September,N8P3N7
+China,Oceanview,11,Plane,431,12/28/16,December,C4P7G9
+Italy,Excelsior,40,Train,400,3/27/16,March,L3Y5O0
+Germany,Munich,38,Coach,120,8/17/16,August,F4G7J5
+Italy,Cenobio,32,Plane,667,4/23/16,April,X4S5K2
+USA,Mohonk,19,Plane,1074,5/16/16,May,Y6M7Y1
+Germany,Berlin,32,Plane,1200,6/13/16,June,R5N9T9
+Turkey,Rixos,35,Plane,254,2/21/16,February,P5V6B8
+Chile,La Parva,23,Coach,126,6/25/16,June,K9H1N7
+Australia,Great Barrier Reef,12,Coach,104,10/30/16,October,G0B3R8
+Australia,The Brando,26,Coach,126,5/23/16,May,L8F5J4
+Mexico,Iberostar,40,Coach,134,2/18/17,February,Z6C9S9
+China,Sanya Yalong,17,Coach,138,8/24/16,August,R2P4O7
+Mexico,Iberostar,34,Train,205,2/13/17,February,M3J3B4
+Mexico,Punta Serena,37,Plane,1054,2/5/16,February,T3E4M3
+Germany,Black Forest,13,Train,226,10/4/16,October,L3H0Q0
+Germany,Frankfurt,27,Plane,801,12/18/16,December,W8J6J3
+Chile,Coyhaique,27,Train,359,9/13/16,September,G0X8R4
+Turkey,Ilayda,29,Train,154,7/19/16,July,L2L4U8
+France,Lyon,6,Train,229,11/7/16,November,C2G7V8
+Turkey,Jiva,31,Coach,128,8/24/16,August,H3P9Q5
+Germany,Frankfurt,33,Plane,547,5/6/16,May,H7O3H0
+Chile,Coyhaique,19,Plane,316,5/2/16,May,R5I0O3
+Germany,Cologne,16,Plane,1062,7/11/16,July,O3I6T5
+Germany,Frankfurt,39,Plane,1009,11/9/16,November,L6U2M8
+Russia,Radisson,21,Train,114,2/17/16,February,W1T1J1
+Russia,Radisson,14,Coach,106,3/13/16,March,Y8P3J8
+England,London,7,Coach,101,5/1/16,May,U6Q1E5
+England,London,44,Coach,129,11/16/16,November,U9A4R0
+Mexico,Valentin,18,Train,353,1/7/17,January,K2R4B1
+France,Nice,29,Coach,132,5/19/16,May,W7C5U3
+Chile,Farellones,11,Train,244,8/17/16,August,B3K4C6
+France,Toulouse,10,Train,157,8/26/16,August,E7I6K8
+USA,Omni Amelia,10,Plane,577,2/22/17,February,F1D2W9
+Germany,Cologne,18,Coach,134,7/26/16,July,D9B4A8
+Turkey,Bodrum,6,Coach,141,7/31/16,July,L8Y1P6
+Russia,The artic,16,Coach,129,7/20/16,July,K6W4O2
+Spain,Granada,35,Train,192,6/25/16,June,V4V8X2
+France,Toulouse,19,Coach,116,2/3/16,February,K3U3K2
+USA,Paradise Stream,18,Coach,148,2/25/17,February,J1V7M5
+Turkey,Orka,42,Plane,751,5/3/16,May,V8Q1E7
+Turkey,Ilayda,17,Coach,135,1/15/17,January,S1D7K9
+Russia,Radisson,38,Train,139,11/1/16,November,N1B4I7
+Chile,La Parva,8,Train,348,11/12/16,November,R7C2S4
+Spain,Barcelona,26,Plane,985,12/13/16,December,P4M0Z5
+Australia,Southern Ocean Lodge,26,Plane,582,4/11/16,April,S8K0Q8
+France,Toulouse,15,Plane,205,2/20/17,February,V6B1B9
+China,Sanya Yalong,33,Coach,119,3/18/16,March,W1E0G7
+Australia,Great Barrier Reef,17,Train,137,6/26/16,June,R4Z6H3
+China,Renaissance Sanya,28,Coach,144,1/1/17,January,I6W1W6
+England,Crowne Plaza,11,Plane,330,3/16/16,March,C4I4M5
+Mexico,Valentin,24,Plane,574,11/3/16,November,Q0A4G7
+England,Bognor,41,Plane,550,9/3/16,September,R3O0D1
+France,Nice,34,Train,249,3/1/16,March,P2A9K4
+France,Lyon,43,Train,194,12/6/16,December,B9W1W7
+England,Champneys,38,Plane,889,2/22/17,February,H3D1R2
+Russia,Dacha del sol,36,Plane,770,11/17/16,November,T6U6D6
+Russia,Radisson,19,Coach,116,7/19/16,July,W0U2Q1
+Germany,Berlin,17,Plane,617,7/3/16,July,H0Y9W5
+China,Dameisha,19,Train,193,11/13/16,November,I8C4O6
+Italy,Excelsior,36,Plane,960,12/13/16,December,Y3F0W9
+USA,Sirata,44,Plane,656,10/8/16,October,W7M4B8
+Chile,Coyhaique,17,Plane,826,11/23/16,November,M1Y0T7
+Turkey,Salmakis,23,Train,292,2/4/17,February,U5Q8T1
+Russia,Vesna,12,Plane,646,12/2/16,December,F3V5I9
+Italy,Cruccuris,9,Plane,1062,7/6/16,July,D4P5A1
+France,Toulouse,26,Coach,112,7/15/16,July,U4C6A1
+France,Nice,8,Train,247,2/7/17,February,Q1D2Z8
+Chile,La Parva,22,Coach,136,11/22/16,November,N2H3A4
+China,Oceanview,36,Coach,148,11/16/16,November,I5C9V4
+Russia,Dacha del sol,23,Coach,115,4/8/16,April,Q8T2G4
+China,Oceanview,37,Train,265,6/13/16,June,I3Y9A2
+France,Lyon,9,Plane,637,6/18/16,June,L8K6J5
+Mexico,Punta Serena,34,Plane,1181,3/19/16,March,H2N5I9
+Spain,Seville,17,Train,110,9/23/16,September,T9O6A2
+Spain,Madrid,20,Train,234,12/6/16,December,H2S5K2
+France,Paris - Euro Disney,37,Coach,121,6/5/16,June,Q7J8S9
+China,Renaissance Sanya,35,Train,254,10/5/16,October,E3M9Q2
+Italy,La callete,9,Coach,115,10/27/16,October,E3J6S3
+Spain,Nerja,7,Plane,760,2/20/16,February,Y6Z2X7
+China,Sanya Yalong,25,Coach,103,5/23/16,May,S0A8Y4
+China,Lijiang,13,Coach,117,12/2/16,December,D7E8U3
+USA,Omni Amelia,24,Coach,139,10/16/16,October,Z5K5U9
+China,Dameisha,44,Plane,252,2/17/17,February,Z1A8A9
+England,Crowne Plaza,31,Coach,113,5/1/16,May,Y3S8E7
+Spain,Madrid,19,Coach,144,4/23/16,April,W7N5B9
+England,London,45,Train,313,3/5/16,March,T7L9B8
+Russia,Radisson,39,Train,143,11/18/16,November,T0C3M4
+Turkey,Orka,7,Train,318,10/20/16,October,Y6I8O3
+Russia,Dacha del sol,31,Train,346,2/12/17,February,P6Z6C4
+USA,Mohonk,8,Plane,562,5/21/16,May,E3X1W1
+Spain,Granada,14,Coach,144,2/25/17,February,X2R4P7
+Russia,Dacha del sol,33,Plane,912,2/9/17,February,Q2V0W5
+Australia,Great Barrier Reef,39,Train,264,8/24/16,August,Z0M5U0
+Mexico,Valentin,38,Plane,826,10/8/16,October,P8C8C6
+Germany,Frankfurt,31,Plane,237,8/9/16,August,P5B3H9
+Turkey,Ilayda,7,Coach,150,6/24/16,June,D9X4J9
+Chile,Valle Nevado,24,Coach,145,2/11/17,February,W8F9A2
+Spain,Granada,15,Plane,871,4/29/16,April,U9S9X3
+Spain,Nerja,19,Plane,1005,12/29/16,December,O0I3W1
+England,Bognor,31,Plane,1172,6/17/16,June,P0R5N1
+Chile,Valle Nevado,32,Train,355,5/5/16,May,Y0N3P9
+Chile,Coyhaique,42,Coach,129,12/23/16,December,Y1A5P2
+Mexico,Hotel Riu,45,Plane,406,5/7/16,May,O3U1S8
+Mexico,Punta Serena,17,Coach,138,8/26/16,August,N4F2M5
+England,Champneys,35,Plane,1012,10/15/16,October,N6X2A0
+France,Lyon,44,Plane,686,12/5/16,December,M5D5V6
+Mexico,Cozumel,8,Coach,140,11/9/16,November,R8Z6J3
+France,Nice,29,Plane,793,11/24/16,November,V7Q6I7
+Mexico,Valentin,41,Coach,150,4/15/16,April,J0W3M3
+France,Nimes,42,Train,164,7/12/16,July,T9W0K9
+Chile,Portillo,42,Plane,971,4/2/16,April,U4H2C6
+USA,The meritage,23,Train,218,6/30/16,June,X1C2S1
+France,Nice,42,Train,163,8/30/16,August,G3Q3L8
+Italy,Excelsior,40,Plane,747,5/10/16,May,S2E1E2
+Spain,Nerja,43,Coach,140,12/22/16,December,S5G0N6
+Chile,Farellones,34,Coach,118,12/16/16,December,Z9B2L8
+Turkey,Rixos,42,Plane,893,11/27/16,November,Z3B0R8
+Spain,Granada,29,Train,234,10/6/16,October,M0U8L1
+Spain,Granada,45,Train,126,7/19/16,July,D4E2K6
+France,Paris - Euro Disney,29,Plane,824,5/4/16,May,V6Q2G3
+England,Slaley,13,Train,209,10/2/16,October,C6L5I3
+Mexico,Hotel Riu,12,Plane,582,8/30/16,August,J5X0E7
+Mexico,Punta Serena,33,Train,361,12/17/16,December,H5J5C9
+China,Sanya Yalong,28,Train,204,1/12/17,January,O7B0A0
+Italy,Cenobio,8,Plane,1219,1/1/17,January,E6Y2V4
+China,Sanya Yalong,5,Plane,1238,11/24/16,November,V0D5I8
+Russia,Zeleniy,20,Plane,409,5/30/16,May,W3L3S8
+Russia,The artic,9,Train,321,8/8/16,August,E6R6N1
+Italy,La callete,30,Plane,848,11/12/16,November,H7O1A6
+Italy,Cenobio,22,Coach,102,7/31/16,July,L0M9A6
+Germany,Berlin,23,Coach,150,9/8/16,September,F6M7D1
+USA,Mohonk,9,Coach,132,12/14/16,December,N2S8D3
+China,Oceanview,38,Plane,814,6/17/16,June,W2A7A3
+Italy,Cenobio,44,Train,203,3/7/16,March,L9K1I6
+USA,Mohonk,24,Plane,708,4/7/16,April,A3H1Q1
+Italy,Cenobio,40,Coach,144,3/16/16,March,Z0X5F1
+Spain,Malaga,19,Train,119,5/1/16,May,A1V2G1
+China,Lijiang,19,Plane,773,3/22/16,March,F3M6J6
+Russia,The artic,11,Plane,1277,5/26/16,May,T2Y1J9
+Russia,Radisson,19,Train,385,7/2/16,July,U5J0P3
+Spain,Malaga,10,Plane,1064,12/21/16,December,Y8I2Z3
+Russia,Radisson,28,Train,232,11/8/16,November,W1N3I2
+Chile,Valle Nevado,9,Plane,869,6/12/16,June,R2E0D0
+Italy,Excelsior,43,Coach,127,6/7/16,June,R4R6W6
+Chile,Valle Nevado,45,Train,141,1/22/17,January,Q5R9F6
+Mexico,Valentin,44,Plane,772,8/18/16,August,F4W2G2
+Chile,Farellones,43,Coach,124,12/14/16,December,R8J8Y9
+Chile,Coyhaique,17,Plane,794,1/19/17,January,D6B0R3
+Germany,Frankfurt,45,Plane,899,11/29/16,November,Z3R8A7
+Italy,Cruccuris,39,Plane,1215,10/21/16,October,N6D0Z9
+Mexico,Cozumel,29,Coach,101,1/2/17,January,N2N6Y4
+Italy,La callete,8,Coach,116,4/8/16,April,P4M6C6
+Germany,Black Forest,25,Coach,138,1/9/17,January,N9I5E2
+China,Sanya Yalong,33,Coach,135,9/2/16,September,U0N6Y8
+Mexico,Iberostar,16,Coach,139,1/28/17,January,P6E8D9
+Russia,Dacha del sol,30,Coach,135,12/16/16,December,Z4X6S9
+England,Bognor,10,Plane,750,4/18/16,April,B2X9D5
+Chile,Coyhaique,19,Plane,1065,8/5/16,August,E4K5R3
+Turkey,Salmakis,25,Train,150,6/23/16,June,N2C5N9
+Australia,The Brando,9,Coach,141,11/4/16,November,I0R0B0
+Russia,Radisson,45,Plane,1161,5/26/16,May,D1B3A0
+Mexico,Cozumel,27,Train,215,12/24/16,December,A5T8V0
+England,Bognor,21,Train,192,1/20/17,January,Z2T9M2
+England,Bognor,15,Plane,685,2/10/17,February,I4S5S5
+Germany,Cologne,11,Plane,801,9/8/16,September,E7B4Z1
+Italy,Cruccuris,24,Coach,137,10/8/16,October,O5M9H9
+Australia,Perth,22,Train,338,3/23/16,March,O0A1V6
+Australia,Likuliku Lagoon Resort,16,Plane,941,10/31/16,October,E1E8Q8
+Mexico,Iberostar,39,Coach,109,6/5/16,June,I5C9V4
+England,Crowne Plaza,13,Coach,148,2/26/16,February,Q8T2G4
+England,Slaley,30,Plane,1228,1/8/17,January,I3Y9A2
+Spain,Seville,16,Train,293,12/29/16,December,L8K6J5
+Italy,Excelsior,33,Plane,1014,2/12/17,February,H2N5I9
+Spain,Seville,9,Coach,110,6/24/16,June,T9O6A2
+Chile,Portillo,30,Train,313,3/9/16,March,H2S5K2
+Australia,Southern Ocean Lodge,41,Plane,754,10/26/16,October,Q7J8S9
+Mexico,Cozumel,30,Plane,332,3/13/16,March,E3M9Q2
+Germany,Frankfurt,17,Coach,126,8/20/16,August,E3J6S3
+Mexico,Hotel Riu,15,Train,310,5/8/16,May,Y6Z2X7
+England,Champneys,21,Train,354,6/30/16,June,S0A8Y4
+Chile,Portillo,27,Coach,150,1/24/17,January,D7E8U3
+England,London,20,Plane,749,11/16/16,November,Z5K5U9
+Chile,Coyhaique,20,Plane,839,3/26/16,March,Z1A8A9
+Russia,Dacha del sol,26,Train,320,5/25/16,May,Y3S8E7
+Russia,Vesna,40,Train,351,10/27/16,October,W7N5B9
+Germany,Munich,10,Plane,438,8/12/16,August,T7L9B8
+England,Slaley,16,Coach,133,4/28/16,April,T0C3M4
+Australia,Perth,5,Train,183,6/24/16,June,Y6I8O3
+Germany,Berlin,21,Coach,145,2/3/16,February,P6Z6C4
+France,Nimes,35,Train,266,5/1/16,May,E3X1W1
+Chile,Farellones,25,Coach,122,10/18/16,October,X2R4P7
+Spain,Seville,41,Train,316,9/6/16,September,Q2V0W5
+Germany,Frankfurt,33,Coach,122,12/31/16,December,Z0M5U0
+Italy,La callete,18,Plane,370,12/18/16,December,P8C8C6
+USA,The meritage,25,Train,385,12/23/16,December,P5B3H9
+Germany,Berlin,45,Train,288,5/4/16,May,D9X4J9
+USA,Wilderness,25,Coach,105,12/30/16,December,W8F9A2
+Turkey,Salmakis,40,Train,130,1/30/17,January,U9S9X3
+Australia,Perth,34,Train,156,2/5/17,February,O0I3W1
+China,Sanya Yalong,31,Plane,567,2/9/16,February,P0R5N1
+Spain,Seville,27,Plane,696,2/4/17,February,Y0N3P9
+Russia,Radisson,19,Coach,120,7/16/16,July,Y1A5P2
+Turkey,Orka,40,Coach,141,9/28/16,September,O3U1S8
+Chile,Portillo,33,Coach,114,3/25/16,March,N4F2M5
+Spain,Nerja,23,Plane,722,9/10/16,September,N6X2A0
+Turkey,Rixos,6,Train,283,5/10/16,May,M5D5V6
+Italy,Rome,29,Plane,359,9/22/16,September,R8Z6J3
+China,Lijiang,11,Plane,1045,1/27/17,January,V7Q6I7
+Australia,Great Barrier Reef,35,Coach,139,4/3/16,April,J0W3M3
+Australia,Likuliku Lagoon Resort,21,Plane,1075,3/12/16,March,T9W0K9
+Australia,Likuliku Lagoon Resort,14,Train,213,6/5/16,June,U4H2C6
+Turkey,Jiva,6,Coach,141,7/24/16,July,X1C2S1
+Russia,The artic,6,Plane,957,7/7/16,July,G3Q3L8
+Australia,Perth,44,Train,119,2/3/17,February,S2E1E2
+USA,The meritage,22,Coach,111,1/30/17,January,S5G0N6
+Chile,Valle Nevado,34,Coach,150,10/13/16,October,Z9B2L8
+Chile,La Parva,27,Train,293,12/9/16,December,Z3B0R8
+Germany,Munich,9,Plane,1149,2/4/17,February,M0U8L1
+China,Renaissance Sanya,31,Plane,765,2/27/16,February,D4E2K6
+England,Slaley,30,Coach,113,6/14/16,June,V6Q2G3
+Germany,Cologne,24,Plane,1202,2/3/17,February,C6L5I3
+China,Oceanview,11,Coach,133,10/24/16,October,J5X0E7
+Germany,Frankfurt,22,Coach,109,6/28/16,June,H5J5C9
+Italy,Rome,18,Coach,142,10/23/16,October,O7B0A0
+China,Oceanview,21,Train,100,7/14/16,July,E6Y2V4
+England,London,13,Coach,145,10/28/16,October,V0D5I8
+Australia,Perth,35,Train,313,7/18/16,July,W3L3S8
+France,Nice,13,Coach,133,3/7/16,March,E6R6N1
+Mexico,Iberostar,41,Train,225,7/6/16,July,H7O1A6
+Mexico,Iberostar,20,Coach,129,2/14/17,February,L0M9A6
+Australia,Great Barrier Reef,30,Train,316,7/18/16,July,F6M7D1
+England,Slaley,15,Train,124,7/20/16,July,N2S8D3
+Australia,Great Barrier Reef,25,Train,103,2/12/16,February,W2A7A3
+Germany,Black Forest,43,Train,126,10/25/16,October,L9K1I6
+Germany,Berlin,20,Coach,100,5/16/16,May,A3H1Q1
+Australia,Southern Ocean Lodge,17,Coach,105,9/18/16,September,Z0X5F1
+England,Crowne Plaza,27,Coach,115,1/27/17,January,A1V2G1
+Spain,Madrid,44,Train,387,2/2/17,February,F3M6J6
+Russia,Zeleniy,27,Train,248,5/4/16,May,T2Y1J9
+Spain,Nerja,18,Coach,109,6/20/16,June,U5J0P3
+Turkey,Orka,14,Train,312,3/24/16,March,Y8I2Z3
+Spain,Seville,18,Coach,102,9/3/16,September,W1N3I2
+China,Lijiang,27,Train,202,2/4/17,February,R2E0D0
+Chile,Valle Nevado,9,Plane,660,7/9/16,July,R4R6W6
+Spain,Granada,13,Train,233,2/15/16,February,Q5R9F6
+Germany,Berlin,40,Coach,124,8/3/16,August,F4W2G2
+Mexico,Punta Serena,38,Train,210,9/9/16,September,R8J8Y9
+Turkey,Salmakis,43,Train,327,3/19/16,March,D6B0R3
+USA,Sirata,28,Coach,102,3/31/16,March,Z3R8A7
+England,Bognor,22,Train,349,7/17/16,July,N6D0Z9
+Mexico,Iberostar,16,Coach,109,8/9/16,August,N2N6Y4
+England,Crowne Plaza,34,Plane,730,8/22/16,August,P4M6C6
+Russia,The artic,25,Coach,137,2/11/17,February,N9I5E2
+Italy,La callete,39,Plane,1281,8/18/16,August,U0N6Y8
+Germany,Munich,18,Coach,109,7/10/16,July,P6E8D9
+Mexico,Punta Serena,22,Coach,114,1/28/17,January,Z4X6S9
+Russia,Zeleniy,20,Train,254,8/30/16,August,B2X9D5
+China,Sanya Yalong,35,Coach,102,8/13/16,August,E4K5R3
+England,Bognor,39,Coach,138,8/24/16,August,N2C5N9
+Spain,Malaga,20,Coach,130,10/29/16,October,I0R0B0
+Australia,The Brando,27,Train,343,11/3/16,November,D1B3A0
+Germany,Berlin,21,Coach,137,7/26/16,July,A5T8V0
+Mexico,Punta Serena,11,Train,158,5/18/16,May,Z2T9M2
+Turkey,Salmakis,37,Coach,140,7/18/16,July,I4S5S5
+Spain,Seville,22,Coach,132,1/24/17,January,E7B4Z1
+Spain,Barcelona,9,Plane,525,12/14/16,December,O5M9H9
+Chile,Portillo,8,Train,335,7/24/16,July,O0A1V6
+Russia,The artic,30,Coach,117,3/16/16,March,E1E8Q8
+Spain,Seville,36,Plane,1045,12/21/16,December,L1T8T3
+USA,Wilderness,28,Coach,127,3/25/16,March,S2K6W8
+France,Lyon,31,Coach,148,2/19/16,February,H0Y2P8
+France,Nice,14,Plane,971,2/3/17,February,V9A9T4
+Australia,Likuliku Lagoon Resort,23,Train,366,6/24/16,June,E4A9N2
+USA,Omni Amelia,44,Coach,106,1/21/17,January,R9V7U4
+Spain,Madrid,15,Plane,737,2/12/16,February,M7M6G2
+Turkey,Orka,28,Plane,1199,3/20/16,March,U3C1I8
+USA,Sirata,35,Train,101,2/15/17,February,F4R4D7
+USA,Omni Amelia,15,Plane,204,11/29/16,November,M5E0F2
+China,Lijiang,8,Train,355,10/11/16,October,X8A7A5
+Chile,La Parva,44,Plane,767,7/1/16,July,Y8T5K8
+Germany,Black Forest,26,Plane,646,8/3/16,August,V7H4R3
+Russia,Vesna,36,Train,121,1/1/17,January,P9U8B4
+France,Nimes,10,Coach,100,7/11/16,July,T2R2V9
+China,Renaissance Sanya,13,Coach,128,2/25/17,February,I2G0E6
+France,Paris - Euro Disney,33,Plane,949,8/6/16,August,J1D9O6
+Turkey,Ilayda,14,Coach,148,12/3/16,December,M0Z0B3
+France,Nimes,26,Coach,138,9/24/16,September,M8Q8V3
+Spain,Seville,11,Train,235,11/13/16,November,R8V7C9
+Chile,Valle Nevado,26,Plane,1183,6/24/16,June,X2Z2M0
+Russia,Dacha del sol,29,Plane,537,2/27/16,February,R0C6M5
+France,Paris - Euro Disney,22,Plane,790,1/31/17,January,X5D3X2
+USA,Paradise Stream,9,Train,340,5/23/16,May,R9S2T2
+Australia,Perth,45,Plane,782,2/27/17,February,X0Z6B5
+Italy,Excelsior,29,Plane,976,2/21/16,February,V9B8B5
+Italy,La callete,12,Plane,978,1/8/17,January,A4B8C5
+USA,Sirata,7,Train,367,5/29/16,May,J6J0D8
+USA,Mohonk,31,Plane,301,4/28/16,April,N4L7O3
+Mexico,Punta Serena,7,Plane,839,8/16/16,August,J3X5I3
+Italy,Cruccuris,23,Coach,124,2/24/17,February,K2U7Z5
+Germany,Frankfurt,27,Coach,139,2/27/17,February,G4V6K3
+Spain,Madrid,14,Coach,120,2/18/16,February,N6B9O3
+Russia,Radisson,37,Train,293,6/8/16,June,N8X2X4
+Chile,Valle Nevado,35,Coach,104,6/12/16,June,F3M2A2
+Spain,Madrid,26,Coach,116,10/6/16,October,F9A2Y5
+England,London,24,Coach,134,9/3/16,September,D3G0I4
+Russia,Zeleniy,33,Coach,125,4/30/16,April,H0H6J3
+Spain,Nerja,35,Train,183,11/29/16,November,D3K3D3
+Spain,Nerja,33,Train,394,3/12/16,March,J9R3M3
+Germany,Berlin,25,Plane,490,1/21/17,January,M5Y5A7
+Spain,Nerja,11,Coach,108,7/25/16,July,A8U7Y0
+Chile,Coyhaique,5,Coach,149,11/10/16,November,N2R9Z9
+France,Nimes,36,Coach,117,9/7/16,September,U2B3D8
+Australia,Likuliku Lagoon Resort,19,Coach,111,9/4/16,September,D6N6X4
+Australia,The Brando,32,Plane,1061,12/28/16,December,M4Q8O0
+China,Oceanview,27,Plane,597,2/17/16,February,V0D6C9
+Italy,La callete,21,Train,157,1/7/17,January,K5T0J2
+France,Lyon,8,Coach,143,6/14/16,June,G7N4W7
+China,Renaissance Sanya,29,Coach,105,1/26/17,January,F0Y5X5
+Germany,Berlin,16,Plane,1236,10/7/16,October,L8W4A0
+Australia,Likuliku Lagoon Resort,11,Coach,117,5/3/16,May,T7A7G3
+Italy,Rome,33,Plane,449,11/28/16,November,Y8J2C4
+England,Champneys,19,Train,391,11/16/16,November,V0S5X2
+Germany,Frankfurt,10,Coach,130,1/15/17,January,D6W8D0
+England,Bognor,39,Train,214,4/17/16,April,U4L6J6
+Spain,Seville,21,Coach,135,8/7/16,August,F8L1W3
+England,Champneys,33,Coach,141,5/22/16,May,W9X1P4
+China,Dameisha,15,Coach,115,12/22/16,December,L0F8W9
+England,Crowne Plaza,23,Train,118,4/22/16,April,E7M4P7
+Italy,La callete,40,Train,379,4/17/16,April,B2L7Z7
+Mexico,Cozumel,36,Train,305,4/6/16,April,Y2G6F5
+France,Lyon,15,Plane,317,10/28/16,October,K5A2V7
+England,Bognor,25,Coach,132,9/3/16,September,O9H6B7
+Mexico,Valentin,40,Train,155,6/24/16,June,S6I8D6
+Russia,The artic,25,Plane,842,8/26/16,August,J9N6A5
+Australia,Southern Ocean Lodge,17,Plane,346,1/6/17,January,K5Q9T5
+Spain,Nerja,24,Train,278,5/1/16,May,E0S9V1
+Spain,Malaga,26,Train,337,8/15/16,August,U5N2C6
