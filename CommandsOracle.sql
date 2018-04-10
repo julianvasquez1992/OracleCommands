@@ -99,5 +99,33 @@ CREATE TABLE AGENCIES (
     holiday_id VARCHAR(255)
     )
     
-SELECT * FROM AGENCIES   
+SELECT * FROM AGENCIES
+
+alter session set "_ORACLE_SCRIPT"=true;
+
+ALTER SESSION SET "_ORACLE_SCRIPT" = TRUE;
+CREATE USER JVASQUEZDBA 
+IDENTIFIED BY JVASQUEZDBA;
+GRANT DBA, CONNECT TO JVASQUEZDBA;
+
+SHOW USER;
+
+CREATE TABLESPACE ORACLE_CLASS
+DATAFILE 'C:\DataFileFolder\JULIAN_VASQUEZ.DBF' SIZE 100M
+ONLINE;
+
+CREATE TABLE AGENCIES (
+    country VARCHAR2(255),
+    resort_name VARCHAR2(255),
+    number_of_days INTEGER,
+    travel_method VARCHAR2(255),
+    price DECIMAL(10,2),
+    date_of_issue DATE,
+    month VARCHAR(255),
+    holiday_id VARCHAR(255)
+    )
+    
+SELECT owner, table_name FROM dba_tables;
+
+
 
